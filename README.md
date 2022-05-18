@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Izquierdo</h1>
-<h3 align="center">A passionate fullstacl developer from Venezuela</h3>
+<h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izquierdop&label=Profile%20views&color=0e75b6&style=flat" alt="izquierdop" /> </p>
 
